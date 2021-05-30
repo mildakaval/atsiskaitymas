@@ -1,5 +1,5 @@
 .img1 {
-  background-image: ![](bg-showcase-1.jpg);
+  background-image: url(bg-showcase-1.jpg);
 background-size: cover;
 width: 100vh;
 height: 400px;
@@ -26,7 +26,7 @@ flex: 1;
   }
 }
 .img2 {
-background: url(/app/img/bg-showcase-2.jpg);
+background: url(../img/bg-showcase-2.jpg);
 background-size: cover;
 width: 654px;
 height: 400px;
