@@ -1,1 +1,56 @@
 # atsiskaitymas
+.signup {
+background-image: url(bg-masthead.jpg);
+background-size: cover;
+height: 300px;
+background-position: center;
+color: white;
+text-align: center;
+padding-top: 80px;
+font-size: 20px;
+flex-wrap: wrap;
+.up {
+padding-top: 20px;
+}
+input {
+  width: 400px;
+  height: 30px;
+}
+button {
+  width: 100px;
+  height: 30px;
+  border: none;
+  border-radius: 5px;
+  background: #0779e4;
+}
+}
+
+.bottomsignup {
+flex-wrap: wrap;
+background-image: url(/app/img/bg-masthead.jpg);
+background-size: cover;
+height: 250px;
+background-position: center;
+color: white;
+text-align: center;
+padding-top: 80px;
+font-size: 20px;
+.bottomup {
+padding-top: 30px;
+}
+input {
+  width: 300px;
+  height: 30px;
+}
+button {
+  flex-wrap: wrap;
+  width: 100px;
+  height: 30px;
+  border: none;
+  border-radius: 5px;
+  background: #0779e4;
+}
+}
+@media screen and (max-width: 480px)
+and (min-width: 320px){
+}
